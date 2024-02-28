@@ -102,3 +102,10 @@ th,td{
     border: 1px solid #E0E0E0;
     padding: 0.6em;
 }
+.blank{
+    cursor: pointer;
+    border-bottom: 2px dotted #9E9E9E; 
+}
+.blank.true{
+    color: #FFFFFF;
+}
